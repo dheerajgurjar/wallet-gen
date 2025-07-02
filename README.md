@@ -1,4 +1,4 @@
-# Octra Wallet Generator 🙌 🤝 💚 🫡 
+# Octra Wallet Generator 
 
 A secure wallet generator for Octra blockchain.
 
